@@ -12,6 +12,7 @@ $ npm run start
 
 # watch mode
 $ docker compose up
+$ npx prisma migrate dev
 $ npm run start:dev
 
 # production mode
